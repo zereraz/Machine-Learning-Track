@@ -12,3 +12,6 @@
 
 (aim is to use free and accessible online resources)
 
+# Pillars of Machine Learning
+
+![alt Pillars of Machine Learning](data/pillars-of-ml.png?raw=true "Pillars")
