@@ -40,4 +40,4 @@ There are three concepts that are at the core of machine learning: data, a model
 
 # Mathematics
 
-[Linear Algebra](./Mathematics/Linear\ Algebra/README.md)
+ * [Linear Algebra](./Mathematics/Linear%20Algebra/README.md)
