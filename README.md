@@ -9,6 +9,9 @@
 ## An overview to Machine learning
 [Introduction](./Introduction.md)
 
+## Start jupyter notebook
+`julia Main.jl`
+
 ## Main references:
  * https://mml-book.github.io
  * http://vmls-book.stanford.edu (Julia companion)
