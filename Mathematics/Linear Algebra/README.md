@@ -4,6 +4,8 @@ Contains key topics of Linear Algebra (mml-book) with examples in Julia.
 
 # Topics
 
+![alt Mind Map - Linear Algebra](../../data/mindmap-ch-2.png?raw=true "Pillars")
+
 ## Linear Algebra (Chapter 2)
  * Linear Equations, Matrices, Multiplication
  * Inverse, Transpose
@@ -27,4 +29,3 @@ Contains key topics of Linear Algebra (mml-book) with examples in Julia.
  * Cholesky Decomposition
  * Eigendecomposition
  * Singular Value Decomposition
-
