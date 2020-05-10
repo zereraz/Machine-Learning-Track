@@ -1,7 +1,9 @@
 # Introduction
 
 ```
-Machine learning is about designing algorithms that automatically extract valuable information from data. The emphasis here is on “automatic”, i.e., machine learning is concerned about general-purpose methodologies that can be applied to many datasets, while producing something that is meaningful. There are three concepts that are at the core of machine learning: data, a model, and learning
+Machine learning is about designing algorithms that automatically extract valuable information from data.
+The emphasis here is on “automatic”, i.e., machine learning is concerned about general-purpose methodologies that can be applied to many datasets, while producing something that is meaningful.
+There are three concepts that are at the core of machine learning: data, a model, and learning
 ```
 
 ## Data
@@ -30,15 +32,14 @@ Machine learning is about designing algorithms that automatically extract valuab
   * an object that obeys addition and scaling (mathematical view)
 
 # Summary of concepts in mml-book
-```
  * We represent data as vectors.
  * We choose an appropriate model, either using the probabilistic or opti- mization view.
  * We learn from available data by using numerical optimization methods with the aim that the model performs well on data not used for training.
-```
+
 # Pillars of Machine Learning
 
 ![alt Pillars of Machine Learning](data/pillars-of-ml.png?raw=true "Pillars")
 
 # Mathematics
 
- * [Linear Algebra](./Mathematics/Linear Algebra/README.md)
+[Linear Algebra](./Mathematics/Linear Algebra/README.md)
