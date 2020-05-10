@@ -1,10 +1,8 @@
 # Introduction
 
-```
 Machine learning is about designing algorithms that automatically extract valuable information from data.
 The emphasis here is on “automatic”, i.e., machine learning is concerned about general-purpose methodologies that can be applied to many datasets, while producing something that is meaningful.
 There are three concepts that are at the core of machine learning: data, a model, and learning
-```
 
 ## Data
  * machine learning is inherently data driven, data is at the core of machine learning
@@ -42,4 +40,4 @@ There are three concepts that are at the core of machine learning: data, a model
 
 # Mathematics
 
-[Linear Algebra](./Mathematics/Linear Algebra/README.md)
+[Linear Algebra](./Mathematics/Linear\ Algebra/README.md)
