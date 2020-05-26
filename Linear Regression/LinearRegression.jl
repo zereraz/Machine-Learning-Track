@@ -1,6 +1,9 @@
+module LinearRegression
+
+
 using Pkg
 
-Pkg.activate(".")
+Pkg.activate("../")
 
 using IJulia
 using Printf
@@ -17,3 +20,4 @@ end
 
 main()
 
+end
