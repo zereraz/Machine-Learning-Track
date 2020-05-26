@@ -11,6 +11,7 @@
 
 ## Start jupyter notebook
 `julia Main.jl`
+
 Note: `it runs IJulia in detached mode so you may have to kill the jupyter server when done`
 
 ## Main references:
