@@ -5,3 +5,4 @@
 
 TODO:
  * Add animation for line reaching appropriate slope and intercept
+ * Use generalized version of Ordinary Least Squares and fit higher degree polynomial curves
