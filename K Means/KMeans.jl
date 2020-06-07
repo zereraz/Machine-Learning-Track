@@ -1,12 +1,21 @@
+module KMeans
+
+
 using Pkg
 
-Pkg.activate(".")
-Pkg.instantiate()
+# making sure it works being called from
+# outside and inside
+folderName="K Means"
+if occursin(folderName, PROGRAM_FILE) Pkg.activate("./")
+else
+  Pkg.activate("../")
+end
 
 using IJulia
 using Printf
 
 function main()
+  println(ARGS)
   # install kernel
   cpu_count=Sys.CPU_THREADS
   Printf.@printf("Installing kernel with %d cores\n", cpu_count)
@@ -18,3 +27,4 @@ end
 
 main()
 
+end

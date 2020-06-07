@@ -3,7 +3,13 @@ module LinearRegression
 
 using Pkg
 
-Pkg.activate("../")
+# making sure it works being called from
+# outside and inside
+folderName="Linear Regression"
+if occursin(folderName, PROGRAM_FILE) Pkg.activate("./")
+else
+  Pkg.activate("../")
+end
 
 using IJulia
 using Printf
